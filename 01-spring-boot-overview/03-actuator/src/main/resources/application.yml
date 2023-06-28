@@ -1,0 +1,15 @@
+management:
+  endpoints.web.exposure.include: "*"
+  info.env.enabled: true
+
+info:
+  app:
+    name: My Super Cool App
+    description: A crazy fun app, yoohoo!
+    version: 1.0.0
+
+spring:
+  security:
+    user:
+      name: Denzel
+      password: fuckoff
