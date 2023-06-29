@@ -1,0 +1,37 @@
+
+N
+java:S1602",Remove useless curly braces around statement(¸éâçıÿÿÿÿ8Ë¤ñ½1
+]	java:S125"<This block of commented-out lines of code should be removed.(“ï”õùÿÿÿÿ8Îş‰½1
+W	java:S125"<This block of commented-out lines of code should be removed.(·©„N8Ì¤ñ½1
+T	java:S106""9Replace this use of System.out or System.err by a logger.(²†¾8Îş‰½1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(òòÅ˜ûÿÿÿÿ8Ïş‰½1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(È¾Ù›ûÿÿÿÿ8Ïş‰½1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(’³äùÿÿÿÿ8Ğş‰½1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Ù²è×ıÿÿÿÿ8Ğş‰½1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(³——Œ8Ñş‰½1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ÓÍÍØÿÿÿÿÿ8Ñş‰½1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÓÍÍØÿÿÿÿÿ8Òş‰½1
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(Œúìå8Òş‰½1
+U	java:S106["9Replace this use of System.out or System.err by a logger.(“çšÆ8Òş‰½1
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(Ã¢®Ø8Òş‰½1
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(çÁ”äÿÿÿÿÿ8Óş‰½1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(ïÒÁ½ùÿÿÿÿ8Óş‰½1
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(Æüÿÿÿÿÿ8Ôş‰½1
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(œôìú8Ôş‰½1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(¿†ûÂùÿÿÿÿ8Õş‰½1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(“çšÆ8êïš½1
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(è¡–Ç8óâœ½1
+S
+java:S1144!"6Remove this unused private "deleteAllStudents" method.(öä¾º8öåğ½1
+O
+java:S1144'"2Remove this unused private "deleteStudent" method.(Ë©Ë›8“Ã™½1
+O
+java:S1144-"2Remove this unused private "updateStudent" method.(Ëà½Å8Õş‰½1
+a
+java:S1144?"?Remove this unused private "queryForStudentsByLastName" method.(Üı»±üÿÿÿÿ8Õş‰½1
+R
+java:S1144J"5Remove this unused private "queryForStudents" method.(Ø¹Ï‚8Õş‰½1
+M
+java:S1144U"0Remove this unused private "readStudent" method.(„ÌÅÖ8Õş‰½1
+T
+java:S1144z"2Remove this unused private "createStudent" method.(ù‰ö˜ûÿÿÿÿ8Õş‰½1

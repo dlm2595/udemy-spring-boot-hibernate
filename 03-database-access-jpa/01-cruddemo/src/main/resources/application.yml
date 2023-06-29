@@ -1,0 +1,16 @@
+spring:
+  main:
+    banner-mode: off
+  datasource:
+    url: jdbc:mysql://localhost:3306/student_tracker
+    username: root
+    password: P@ssw0rd
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+logging:
+  level:
+    root: warn
+    org.hibernate.SQL: debug
+    org.hibernate.orm.jdbc.bind: trace
